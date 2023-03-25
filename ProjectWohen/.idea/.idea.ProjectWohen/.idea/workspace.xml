@@ -8,16 +8,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="" />
+    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectWohen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectWohen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Hat/aHat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Hat/aHat.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/VH/2D0S9BOHR1CK4NJUW0ELFX.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/8/VH/2D0S9BOHR1CK4NJUW0ELFX.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/GL/2IWNAK0VZ07F4H4KQHPR6R.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/GL/2IWNAK0VZ07F4H4KQHPR6R.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RD.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderBlueprint.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderGameControl.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLink.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLink.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLogging.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderLogging.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderShaderInfo.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Binaries/Win64/UnrealEditor-RiderShaderInfo.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RD/UnrealEditor-RD.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderBlueprint/UnrealEditor-RiderBlueprint.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderBlueprint/UnrealEditor-RiderBlueprint.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderGameControl/UnrealEditor-RiderGameControl.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLink/UnrealEditor-RiderLink.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLogging/UnrealEditor-RiderLogging.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderLogging/UnrealEditor-RiderLogging.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/Build/Win64/UnrealEditor/Development/RiderShaderInfo/UnrealEditor-RiderShaderInfo.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/Developer/RiderLink/Intermediate/FileSystemMappings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectWohen.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectWohen.uproject" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/ProjectWohen/HatInteractions.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/ProjectWohen/HatInteractions.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectWohen/HealthComponent.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/ProjectWohen/HealthComponent.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -149,6 +172,16 @@
         <option name="PASS_PARENT_ENVS" value="1" />
         <option name="USE_EXTERNAL_CONSOLE" value="0" />
       </configuration_10>
+      <configuration_11>
+        <option name="CONFIGURATION" value="" />
+        <option name="PLATFORM" value="" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/ProjectWohen.vcxproj" />
+        <option name="EXE_PATH" value="$(TargetPath)" />
+        <option name="PROGRAM_PARAMETERS" value="" />
+        <option name="WORKING_DIRECTORY" value="$(ProjectDir)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_11>
       <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/ProjectWohen.vcxproj" />
       <method v="2">
         <option name="Build" />
@@ -277,6 +310,7 @@
       <workItem from="1679088076389" duration="920000" />
       <workItem from="1679663740616" duration="1229000" />
       <workItem from="1679666240536" duration="313000" />
+      <workItem from="1679752501468" duration="2876000" />
     </task>
     <servers />
   </component>
