@@ -45,6 +45,7 @@ void UHatCollisions::OnBeginOverlap(UPrimitiveComponent* overlappedComp, AActor*
 
 	//need to add a y offset to this so the hat is on their head and when hats stack 
 	this->GetOwner()->SetActorLocation(OtherActor->GetActorLocation());
+	this->GetOwner()->SetOwner(OtherActor);
 
 	//add score ui
 	//spawn new hat 
