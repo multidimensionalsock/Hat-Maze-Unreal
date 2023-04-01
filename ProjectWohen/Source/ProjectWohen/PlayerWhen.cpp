@@ -8,7 +8,6 @@
 #include "Components/CapsuleComponent.h"
 #include "Kismet/KismetMathLibrary.h"
 
-
 // Sets default values
 APlayerWhen::APlayerWhen()
 {
