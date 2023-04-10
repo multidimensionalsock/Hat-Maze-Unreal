@@ -25,7 +25,7 @@ protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
 	int hatNumber = 0;
-	int maxHatNumber = 10;
+	int maxHatNumber;
 	TArray<FName> _sockets;
 
 

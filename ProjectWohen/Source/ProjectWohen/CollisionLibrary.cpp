@@ -15,10 +15,11 @@ void UCollisionLibrary::AddHat_Implementation(AActor* other, UStaticMeshComponen
 	{
 	   if (_sockets.IsEmpty())
 	   {
-		  _sockets = _staticMesh->GetAllSocketNames();
+	   		_sockets = _staticMesh->GetAllSocketNames();
+	   		maxHatNumber = _sockets.Num();
 	   }
 	   FAttachmentTransformRules rules = FAttachmentTransformRules(EAttachmentRule::SnapToTarget, EAttachmentRule::SnapToTarget, EAttachmentRule::KeepWorld, true);
-	   if (hatNumber <= maxHatNumber)
+	   if (hatNumber < maxHatNumber)
 	   {
 		  other->AttachToComponent(_staticMesh, rules, _sockets[hatNumber]);
 		  hatNumber++;
