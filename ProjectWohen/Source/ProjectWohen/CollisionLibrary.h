@@ -24,6 +24,10 @@ public:
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
+	int hatNumber = 0;
+	int maxHatNumber = 10;
+	TArray<FName> _sockets;
+
 
 public:	
 	

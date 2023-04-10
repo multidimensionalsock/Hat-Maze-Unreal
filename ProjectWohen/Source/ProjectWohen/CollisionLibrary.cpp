@@ -13,10 +13,20 @@ void UCollisionLibrary::AddHat_Implementation(AActor* other, UStaticMeshComponen
 {
 	if (other->Tags[0] == "Hat")
 	{
-		FAttachmentTransformRules rules = FAttachmentTransformRules(EAttachmentRule::SnapToTarget, EAttachmentRule::SnapToTarget, EAttachmentRule::KeepWorld, true);
-		other->AttachToComponent(_staticMesh, rules, "HatSocket");
+	   if (_sockets.IsEmpty())
+	   {
+		  _sockets = _staticMesh->GetAllSocketNames();
+	   }
+	   FAttachmentTransformRules rules = FAttachmentTransformRules(EAttachmentRule::SnapToTarget, EAttachmentRule::SnapToTarget, EAttachmentRule::KeepWorld, true);
+	   if (hatNumber <= maxHatNumber)
+	   {
+		  other->AttachToComponent(_staticMesh, rules, _sockets[hatNumber]);
+		  hatNumber++;
+	   }
+	  
 	}
 }
+
 
 
 // Called when the game starts
