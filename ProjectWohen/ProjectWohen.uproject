@@ -1,13 +1,16 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{E2E17693-4C1A-323F-3B1C-80B53EC12201}",
+	"EngineAssociation": "{51A41666-4797-274D-C482-CEAC53EAA6BB}",
 	"Category": "",
 	"Description": "",
 	"Modules": [
 		{
 			"Name": "ProjectWohen",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
 		}
 	],
 	"Plugins": [

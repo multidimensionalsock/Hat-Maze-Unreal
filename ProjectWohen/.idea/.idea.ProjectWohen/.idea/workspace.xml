@@ -8,11 +8,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="" />
+    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/Player.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2MBbq7cWKUyMI1FCWLaiR1XZcQ4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,18 +28,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.ProjectWohen">
     <configuration name="ProjectWohen" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -255,6 +263,11 @@
       <option name="presentableId" value="Default" />
       <updated>1677244113300</updated>
       <workItem from="1677244131356" duration="1663000" />
+      <workItem from="1679837483311" duration="6283000" />
+      <workItem from="1680347350817" duration="3460000" />
+      <workItem from="1681132759880" duration="1128000" />
+      <workItem from="1681216879100" duration="594000" />
+      <workItem from="1681222254094" duration="2766000" />
     </task>
     <servers />
   </component>
