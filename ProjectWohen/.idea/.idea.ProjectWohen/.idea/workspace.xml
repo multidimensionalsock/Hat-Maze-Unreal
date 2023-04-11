@@ -8,11 +8,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="" />
+    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectWohen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectWohen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/GameGameMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/GameGameMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectWohen.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectWohen.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectWohen/CollisionLibrary.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectWohen/CollisionLibrary.h" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -261,6 +271,8 @@
       <workItem from="1679837483311" duration="6283000" />
       <workItem from="1680347350817" duration="3460000" />
       <workItem from="1681132759880" duration="1128000" />
+      <workItem from="1681216879100" duration="594000" />
+      <workItem from="1681222254094" duration="1898000" />
     </task>
     <servers />
   </component>

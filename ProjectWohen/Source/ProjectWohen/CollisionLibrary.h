@@ -20,10 +20,12 @@ public:
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
 	void AddHat(AActor* other, UStaticMeshComponent* _staticMesh);
 	
+	
 
 protected:
 	// Called when the game starts
 	virtual void BeginPlay() override;
+	UPROPERTY(EditAnywhere,BlueprintReadWrite)
 	int hatNumber = 0;
 	int maxHatNumber;
 	TArray<FName> _sockets;
