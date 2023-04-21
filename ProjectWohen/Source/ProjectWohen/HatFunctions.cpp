@@ -16,17 +16,26 @@ UHatFunctions::UHatFunctions()
 	// ...
 }
 
+void UHatFunctions::BeginPlay()
+{
+	Super::BeginPlay();
+}
+
 void UHatFunctions::SpawnNewHat(bool hatSpawned, FVector& newLoc)
 {
 	while (hatSpawned == false)
 	{
-		int randomx = rand() % 25;
-		int randomy = rand() % 25;
+		int randomx = rand() % 33; // 34
+		int randomy = rand() % 29; //30
 
-		newLoc.X = randomx;
-		newLoc.Y = randomy;
+		if (MazeArray2[randomy][randomx] != 1)
+		{
+			newLoc.X = randomx * 100;
+			newLoc.Y = randomy * 100;
+            		
+			hatSpawned = true;
+		}
 		
-		hatSpawned = true;
 		//inform UI and AI of new location
 	}
 }
