@@ -25,13 +25,13 @@ void UHatFunctions::SpawnNewHat(bool hatSpawned, FVector& newLoc)
 {
 	while (hatSpawned == false)
 	{
-		int randomx = rand() % 33; // 34
-		int randomy = rand() % 29; //30
+		int randomy = rand() % 33; // 34
+		int randomx = rand() % 29; //30
 
-		if (MazeArray2[randomy][randomx] != 1)
+		if (MazeArray2[randomx][randomy] != 1)
 		{
-			newLoc.X = randomx * 100;
-			newLoc.Y = randomy * 100;
+			newLoc.X = (randomx * 100) + 50;
+			newLoc.Y = (randomy * 100) + 50;
             		
 			hatSpawned = true;
 		}
