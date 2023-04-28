@@ -39,8 +39,3 @@ void UHatFunctions::SpawnNewHat(bool hatSpawned, FVector& newLoc)
 		//inform UI and AI of new location
 	}
 }
-
-
-
-
-
