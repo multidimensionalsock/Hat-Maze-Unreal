@@ -18,6 +18,9 @@ void UCollisionLibrary::AddHat_Implementation(AActor* other, UStaticMeshComponen
 	   		_sockets = _staticMesh->GetAllSocketNames();
 	   		maxHatNumber = _sockets.Num();
 	   }
+	   /*if (_sockets.Empty == true) {
+
+	   }*/
 	   FAttachmentTransformRules rules = FAttachmentTransformRules(EAttachmentRule::SnapToTarget, EAttachmentRule::SnapToTarget, EAttachmentRule::KeepWorld, true);
 	   if (hatNumber < maxHatNumber)
 	   {

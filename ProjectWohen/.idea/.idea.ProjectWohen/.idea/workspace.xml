@@ -8,7 +8,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="" />
+    <list default="true" id="72f6eea1-83c7-4da3-ac17-0cbf2de181c2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Content/Characters/EnemyAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/EnemyAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Characters/Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Characters/Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/CW/ZZPHDVZQHDVSCZC149WNQD.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/CW/ZZPHDVZQHDVSCZC149WNQD.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/ProjectWohen/CollisionLibrary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/ProjectWohen/CollisionLibrary.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
